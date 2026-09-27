@@ -116,7 +116,25 @@ International_Student_Mobility_Analysis/
 ---
 
 # Dashboard Pages
+## Dashboard Preview
 
+### 1. Overview
+
+![Overview Dashboard](Screenshots/Overview.png)
+
+### 2. Destination Market Analysis
+
+![Destination Market Analysis](Screenshots/Destination%20Market%20Analysis.png)
+
+### 3. Country Deep Dive
+
+![Country Deep Dive](Screenshots/Country%20Deep%20Dive.png)
+
+### 4. Strategic Insights
+
+![Strategic Insights](Screenshots/Strategic%20Insights.png)
+
+---
 ## 1. Overview
 
 The Overview page provides the high-level market picture.
